@@ -1,0 +1,16 @@
+.modal-box{
+    min-height: 200px;
+    width: 100%;
+    max-width: 550px;
+    background-color: white;
+    border-radius: 5px;
+    padding: 35px;
+
+}
+
+.input-bg{
+    background-color: #f3edfc;
+    &:hover{
+        border: solid 1px #9b6db6;
+    }
+}
